@@ -1,0 +1,13 @@
+﻿metric,value,unit,good_if
+score_std,14.042631162384565,score,higher better
+score_cv,0.21618944002480092,-,higher better
+risk_level_count,4.0,count,>=3
+spearman_rank_corr_mean,0.9979821428571427,-,>=0.85
+spearman_rank_corr_std,0.00294075573426428,-,lower better
+top3_overlap_mean,1.0,ratio,>=0.70
+top5_overlap_mean,0.9341666666666667,ratio,>=0.80
+contrib_B1_geo,0.461156800467699,ratio,interpretability
+contrib_B2_channel,0.17894848943307706,ratio,interpretability
+contrib_B3_economic,0.11155447053377472,ratio,interpretability
+contrib_B4_stability,0.2055259994313483,ratio,interpretability
+contrib_B5_new_energy,0.04281424013410092,ratio,interpretability

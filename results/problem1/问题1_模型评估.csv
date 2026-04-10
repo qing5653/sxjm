@@ -1,0 +1,14 @@
+﻿metric,value,unit
+C_base,0.44766098261107434,-
+P_base,0.8,-
+C_opt,0.31957037813230066,-
+P_opt,1.0,-
+MAPE_opt_in_sample,3.206616415024651,%
+holdout_actual_2025,57773.0,10k_tons
+holdout_pred_base_2025,60661.42892975244,10k_tons
+holdout_pred_opt_2025,58589.67601236562,10k_tons
+holdout_mape_base,4.999617346775202,%
+holdout_mape_opt,1.4135946071099308,%
+rolling_mape_base,8.598546900775862,%
+rolling_mape_opt,5.84376605658691,%
+blend_weight_opt,0.5953718719411581,-

@@ -1,0 +1,2 @@
+# sxjm
+mathematical modeling

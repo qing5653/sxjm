@@ -50,3 +50,18 @@ sxjm/
 - `问题2_国别风险排名.png`
 - `问题2_TOP5风险热力图.png`
 - `问题2_风险占比气泡图.png`
+
+## 问题3运行方式
+
+```bash
+/home/fishros/sxjm/.venv/bin/python src/problem3/run_q3.py
+```
+
+运行后在 `results/problem3/` 下生成：
+
+- `问题3_情景优化结果.csv`
+- `问题3_国别调配方案.csv`
+- `问题3_关键指标评估.csv`
+- `问题3_情景供给结构.png`
+- `问题3_风险-集中度散点图.png`
+- `问题3_国别调配热力图.png`
